@@ -64,7 +64,7 @@ While server ISOs are optimized for performance and resource management, I disco
 
 This project serves as an encouragement for fellow learners and enthusiasts to explore unconventional methods in technology. I hope that by sharing my experience, I can inspire others to embrace challenges and find innovative solutions in their own tech journeys.
 
-Feel free to check out the full blog on [Dev.to]((https://dev.to/ahnafashiqueadi/why-do-we-need-a-server-iso-cant-we-make-a-server-using-a-desktop-iso-337n)) for more insights and details!
+Feel free to check out the full blog on [Dev.to](https://dev.to/ahnafashiqueadi/why-do-we-need-a-server-iso-cant-we-make-a-server-using-a-desktop-iso-337n) for more insights and details!
 
 ## Suggested Tags
 
